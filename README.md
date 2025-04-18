@@ -3,3 +3,4 @@
 Tasks - 
 - [x] Create a basic functionality and testing file
 - [ ] Do pre-processing and add the existing code
+- [ ] Add the add-on functionalities
